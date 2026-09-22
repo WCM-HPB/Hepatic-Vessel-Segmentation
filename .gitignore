@@ -1,0 +1,10 @@
+# Model binaries are distributed through GitHub Releases.
+*.zip
+*.pth
+
+# Internal export provenance.
+Dataset092_Hepatic_Vessels_25_export_info.json
+
+# Local notebook and system files.
+.ipynb_checkpoints/
+.DS_Store

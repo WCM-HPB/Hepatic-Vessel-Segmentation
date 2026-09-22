@@ -1,0 +1,14 @@
+{
+  "channel_names": {
+    "0": "image"
+  },
+  "file_ending": ".nii.gz",
+  "labels": {
+    "background": 0,
+    "hepatic_vein": 4,
+    "ivc": 2,
+    "portal_splenic_confluence": 3,
+    "portal_vein": 1
+  },
+  "numTraining": 25
+}
