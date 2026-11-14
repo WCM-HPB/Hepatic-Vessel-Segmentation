@@ -1,12 +1,55 @@
 cff-version: 1.2.0
-message: "If you use this code or the model weights, please cite them as below."
+message: >-
+  If you use this code or the model weights, please cite them as below.
+  Yuzhu Huang and Xinzi He contributed equally.
 title: "Hepatic Vessel Segmentation (WCM-HPB)"
 type: software
 authors:
   - family-names: Huang
     given-names: Yuzhu
-    affiliation: "Weill Cornell Medicine"
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: He
+    given-names: Xinzi
+    affiliation: "Department of Radiology, Weill Cornell Medicine"
+  - family-names: Singh
+    given-names: Nishtha
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: Cash
+    given-names: Charles
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: Xiong
+    given-names: Qing
+    affiliation: "Department of Radiology, Weill Cornell Medicine"
+  - family-names: Owen-Simon
+    given-names: Nina
+    affiliation: "Department of Surgery, Columbia University Irving Medical Center"
+  - family-names: Craig-Schapiro
+    given-names: Rebecca
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: Carpenter
+    given-names: Dustin
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: Rocca
+    given-names: Juan P.
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
+  - family-names: Kierans
+    given-names: Andrea Siobhan
+    affiliation: "Department of Radiology, Weill Cornell Medicine"
+  - family-names: Prince
+    given-names: Martin R.
+    affiliation: "Department of Radiology, Weill Cornell Medicine"
+  - family-names: Samstein
+    given-names: Benjamin
+    affiliation: "Department of Surgery, Weill Cornell Medicine"
 repository-code: "https://github.com/WCM-HPB/Hepatic-Vessel-Segmentation"
 license: [MIT, CC-BY-4.0]
 version: "hepatic-vessels-20260921"
 date-released: 2026-09-21
+# Once the paper is accepted, add:
+# preferred-citation:
+#   type: article
+#   title: "<final title>"
+#   authors: <same list as above>
+#   journal: "<journal>"
+#   year: <year>
+#   doi: "<doi>"
