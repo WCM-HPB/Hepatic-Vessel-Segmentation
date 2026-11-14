@@ -38,3 +38,11 @@ The model archive is distributed as a GitHub Release asset; the uncompressed che
 Research only. The model was trained on all 25 available cases; performance on held-out cases has not been established. Review segmentations before interpreting the reported volumes.
 
 The validation results in `RELEASE.md` are the supplied export record; they were not rerun during repository publication.
+
+## License and citation
+
+- **Code:** MIT License (see `LICENSE`).
+- **Model weights:** CC BY 4.0 (see `LICENSE-WEIGHTS.md`). Free to use,
+  including commercially, with attribution. No patent rights are granted.
+- **Please cite** this work if you use it. Use the "Cite this repository"
+  button or `CITATION.cff`.
