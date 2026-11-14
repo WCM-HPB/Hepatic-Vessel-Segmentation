@@ -6,8 +6,6 @@ authors:
   - family-names: Huang
     given-names: Yuzhu
     affiliation: "Weill Cornell Medicine"
-  # - family-names: ...
-  #   given-names: ...
 repository-code: "https://github.com/WCM-HPB/Hepatic-Vessel-Segmentation"
 license: [MIT, CC-BY-4.0]
 version: "hepatic-vessels-20260921"
