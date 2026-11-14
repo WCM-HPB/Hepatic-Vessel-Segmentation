@@ -12,11 +12,3 @@ repository-code: "https://github.com/WCM-HPB/Hepatic-Vessel-Segmentation"
 license: [MIT, CC-BY-4.0]
 version: "hepatic-vessels-20260921"
 date-released: 2026-09-21
-# Once the paper is published, add:
-# preferred-citation:
-#   type: article
-#   title: "..."
-#   authors: [...]
-#   journal: "..."
-#   year: 2027
-#   doi: "..."
